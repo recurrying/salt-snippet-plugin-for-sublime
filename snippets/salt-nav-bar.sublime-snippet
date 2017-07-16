@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <NavBar
+		className="$2"
+		title=""
+		rightText="更多"
+		isShow={true}
+		onLeftClick={}
+		onRightClick={}
+		closeViewClick={}
+	>
+		$1
+	</NavBar>
+    ]]></content>
+    <tabTrigger>salt-nav-bar</tabTrigger>
+    <description>SaltUI NavBar</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+    <Gallery
+		images={[$1]}
+		lazyLoad={true}
+		onGalleryClick={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-gallery</tabTrigger>
+    <description>SaltUI Gallery</description>
+</snippet>

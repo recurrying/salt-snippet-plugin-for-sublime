@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Slot.hide($1);
+    ]]></content>
+    <tabTrigger>salt-slot-hide</tabTrigger>
+    <description>SaltUI Slot.hide</description>
+</snippet>

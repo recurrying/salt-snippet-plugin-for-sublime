@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+    <Avatar
+		src="$1"
+		name=""
+		size="40px"
+		fontSize="40px"
+		colors={["#ff8170", "#f5b153", "#56c8e8", "#79cc70", "#52bafa", "#9e9ee6"]}
+		className=""
+		hashCode={() => {}}
+		isLong={false}
+		defaultColor=""
+		defaultSrc="https://img.alicdn.com/tps/TB1.IgIKpXXXXbgXpXXXXXXXXXX-116-116.png"
+	/>
+    ]]></content>
+    <tabTrigger>salt-avatar</tabTrigger>
+    <description>SaltUI Avatar</description>
+</snippet>

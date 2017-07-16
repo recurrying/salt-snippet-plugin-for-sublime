@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <DatetimeField
+		className=""
+		label="省市区"
+		placeholder="请选择"
+		confirmText="完成"
+		cancelText="取消"
+		readOnly={false}
+		value={$1}
+		columns={[ "年", "月", "日", "时", "分", "秒" ]}
+		onSelect={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-datetime-field</tabTrigger>
+    <description>SaltUI DatetimeField</description>
+</snippet>

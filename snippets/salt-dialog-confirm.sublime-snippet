@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    Dialog.confirm({
+		title: $1
+		content: $2
+		onConfirm() {
+			$3
+		}
+		onCancel() {
+			$4
+		}
+	});
+    ]]></content>
+    <tabTrigger>salt-dialog-confirm</tabTrigger>
+    <description>SaltUI Dialog.confirm</description>
+</snippet>

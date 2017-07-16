@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    Dialog.alert({
+		title: $1
+		content: $2
+		onConfirm() {
+			$3
+		}
+	});
+    ]]></content>
+    <tabTrigger>salt-dialog-alert</tabTrigger>
+    <description>SaltUI Dialog.alert</description>
+</snippet>

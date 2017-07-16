@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <Grid
+		className="$2"
+		col={4}
+		squre={false}
+		noLine={false}
+		itemHAlign="center"
+		itemVAlign="center"
+		touchable={false}
+	>
+		$1
+	</Grid>
+    ]]></content>
+    <tabTrigger>salt-grid</tabTrigger>
+    <description>SaltUI Grid</description>
+</snippet>

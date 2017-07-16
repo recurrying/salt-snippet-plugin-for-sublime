@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    <Switch
+		className=""
+		on={true}
+		onChange={() => {$1}}
+		readOnly={false}
+	>
+	</Switch>
+    ]]></content>
+    <tabTrigger>salt-switch</tabTrigger>
+    <description>SaltUI Switch</description>
+</snippet>

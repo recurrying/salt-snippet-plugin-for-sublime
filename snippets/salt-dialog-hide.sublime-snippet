@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Dialog.hide();
+    ]]></content>
+    <tabTrigger>salt-dialog-hide</tabTrigger>
+    <description>SaltUI Dialog.hide</description>
+</snippet>

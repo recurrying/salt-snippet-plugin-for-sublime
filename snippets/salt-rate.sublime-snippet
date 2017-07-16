@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <Rate
+		className=""
+		totalScore={5}
+		height={30}
+		gap={10}
+		score={0}
+		onChange={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-rate</tabTrigger>
+    <description>SaltUI Rate</description>
+</snippet>

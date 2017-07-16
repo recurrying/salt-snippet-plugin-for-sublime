@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <Icon
+		className="$1"
+		name="$2"
+		fill="#000"
+		width="32px"
+		height="32px"
+		onClick={}
+	/>
+    ]]></content>
+    <tabTrigger>salt-icon</tabTrigger>
+    <description>SaltUI Icon</description>
+</snippet>

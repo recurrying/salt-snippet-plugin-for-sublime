@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    <PhotoField
+		className=""
+		columns={3}
+		multiple={false}
+		layout="h"
+		label=""
+		max={9}
+		readOnly={false}
+		photoList={[$1]}
+		fill="#ccc"
+		placeholder=""
+		corpId=""
+		onChange={() => {}}
+		onDelete={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-photo-field</tabTrigger>
+    <description>SaltUI PhotoField</description>
+</snippet>

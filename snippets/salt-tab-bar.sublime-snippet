@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <TabBar
+		className="$2"
+		activeIndex={0}
+		onChange={}
+		tabBarStyle={}
+	>
+		$1
+	</TabBar>
+    ]]></content>
+    <tabTrigger>salt-tab-bar</tabTrigger>
+    <description>SaltUI TabBar</description>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+    <CitySelectField
+		className=""
+		label="省市区"
+		placeholder="请选择"
+		layout="h"
+		tip=""
+		selectorType="default"
+		value={[]}
+		districtData={[]}
+		required={false}
+		readOnly={false}
+		onSelect={() => {}}
+		onCancel={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-city-select-field</tabTrigger>
+    <description>SaltUI CitySelectField</description>
+</snippet>

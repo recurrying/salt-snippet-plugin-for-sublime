@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+    <List
+		className=""
+		layout="left"
+		hasRightIcon={true}
+		iconName="angle-right"
+		iconWidth={20}
+		isDelete={false}
+		data={[{imgUrl:"",title:"",text:"",date:""}]}
+		onClick={() => {}}
+		clickPhoto={() => {}}
+		onDelete={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-list</tabTrigger>
+    <description>SaltUI List</description>
+</snippet>

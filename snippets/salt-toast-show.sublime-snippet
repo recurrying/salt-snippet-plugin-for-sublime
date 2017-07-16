@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    Toast.show({
+		type=""
+		content=""
+		autoHide={true}
+		icon=""
+		duration={1500}
+		onDidHide={() => {}}
+		width="auto"
+		height="auto"
+	})
+    ]]></content>
+    <tabTrigger>salt-toast-show</tabTrigger>
+    <description>SaltUI Toast.show</description>
+</snippet>

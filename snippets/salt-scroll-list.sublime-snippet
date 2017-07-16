@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+    <ScrollList
+		scrollLoad={true}
+		dataGetted={false}
+		data={[]}
+		refreshing={false}
+		prefixCls="t-scroll-list"
+		pullLoadTip="下拉显示更多"
+		loadDataTip="释放加载数据"
+		onRefresh={null}
+		loading={false}
+		loadingTip="加载中..."
+		onLoad={null}
+		beforeFetch=data => data
+		processData=data => data
+		currentPageKey="currentPage"
+		noMore={false}
+		noMoreDataTip="没有更多了"
+		hasError={false}
+		errorTip="获取数据失败"
+		noDataTip="暂无数据"
+		noDataImage="https://img.alicdn.com/tps/TB1K6mHNpXXXXXiXpXXXXXXXXXX-1000-1000.svg"
+		fetchDataOnOpen={true}
+	>
+		
+	</ScrollList>
+    ]]></content>
+    <tabTrigger>salt-scroll-list</tabTrigger>
+    <description>SaltUI ScrollList</description>
+</snippet>

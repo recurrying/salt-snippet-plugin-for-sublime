@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    <Box
+		className="$2"
+		hAlign=""
+		vAlign=""
+		flex={}
+		onClick={}
+	>
+		$1
+	</Box>
+    ]]></content>
+    <tabTrigger>salt-box</tabTrigger>
+    <description>SaltUI Box</description>
+</snippet>

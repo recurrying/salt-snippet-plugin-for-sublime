@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+    <Field
+		className=""
+		label=""
+		tappable={false}
+		multiLine={false}
+		icon={}
+		layout="h"
+		required={false}
+		tip=""
+		extra=""
+	>
+		$1
+	</Field>
+    ]]></content>
+    <tabTrigger>salt-field</tabTrigger>
+    <description>SaltUI Field</description>
+</snippet>

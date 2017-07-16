@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+    <Dialog
+		transparentMode={false}
+		className=""
+		title=""
+		content=""
+		onConfirm={() => {}}
+		onCancel={() => {}}
+		type="alert"
+		show={true}
+		locale="zh_CN"
+	>
+		$1
+	</Dialog>
+    ]]></content>
+    <tabTrigger>salt-dialog</tabTrigger>
+    <description>SaltUI Dialog</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    <Scroller
+		className=""
+		autoRefresh={true}
+		disablePointer={true}
+		minWidth="100%"
+		click={/chrome/i.test(navigator.userAgent)}
+	>
+		
+	</Scroller>
+    ]]></content>
+    <tabTrigger>salt-scroller</tabTrigger>
+    <description>SaltUI Scroller</description>
+</snippet>

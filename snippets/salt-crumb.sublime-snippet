@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    <Crumb
+		className="$2"
+		showScroll={true}
+		onClick={}
+	>
+		$1
+	</Crumb>
+    ]]></content>
+    <tabTrigger>salt-crumb</tabTrigger>
+    <description>SaltUI Crumb</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+    <Group.Head
+		className="$2"
+	>
+		$1
+	</Group.Head>
+    ]]></content>
+    <tabTrigger>salt-group-head</tabTrigger>
+    <description>SaltUI Group Head</description>
+</snippet>

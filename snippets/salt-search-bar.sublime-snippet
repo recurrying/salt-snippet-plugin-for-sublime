@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+    <SearchBar
+		iconWidth={20}
+		iconHeight={20}
+		iconColor="#bcbcbc"
+		locale="zh_CN"
+		value=""
+		placeholder={
+			zh_CN:	"搜索"
+			en_US:	"Search"
+		}
+		hasHistory={true}
+		instantSearch={true}
+		searchDelay={350}
+		disabled={false}
+		onChange={() => {}}
+		onSearch={() => {}}
+		onEnter={() => {}}
+		onExit={() => {}}
+		isActive={false}
+	/>
+    ]]></content>
+    <tabTrigger>salt-search-bar</tabTrigger>
+    <description>SaltUI SearchBar</description>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+    <Slot
+		title=""
+		value={[]}
+		maskCloseable={true}
+		data={[]}
+		className=""
+		confirmText="完成"
+		cancelText="取消"
+		onConfirm={() => {}}
+		onCancel={() => {}}
+		onChange={() => {}}
+		scrollMod="reset"
+		columns={[]}
+	/>
+    ]]></content>
+    <tabTrigger>salt-slot</tabTrigger>
+    <description>SaltUI Slot</description>
+</snippet>

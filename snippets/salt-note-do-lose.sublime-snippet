@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Note.doClose();
+    ]]></content>
+    <tabTrigger>salt-note-do-lose</tabTrigger>
+    <description>SaltUI Note.doClose</description>
+</snippet>

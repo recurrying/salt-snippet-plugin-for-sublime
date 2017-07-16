@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+    <TabBar.Item
+		title=""
+		titleStyle={}
+		activeTitleStyle={}
+		icon=""
+		activeIcon=""
+		iconStyle={}
+		activeIconStyle={}
+		badge=""
+		badgeStyle={}
+	>
+		$1
+	</TabBar.Item>
+    ]]></content>
+    <tabTrigger>salt-tab-bar-item</tabTrigger>
+    <description>SaltUI TabBar Item</description>
+</snippet>

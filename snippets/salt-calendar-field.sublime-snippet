@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <CalendarField
+		type="day"
+		placeholder={["开始日期",	"结束日期"]}
+		formatter="yyyy-MM-dd"
+		readOnly={false}
+		showWeek={true}
+		showDateType={true}
+	/>
+    ]]></content>
+    <tabTrigger>salt-calendar-field</tabTrigger>
+    <description>SaltUI CalendarField</description>
+</snippet>

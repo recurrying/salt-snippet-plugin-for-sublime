@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    <Note
+		type="message"
+		closable={false}
+		closeText=""
+		message=""
+		onClose={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-note</tabTrigger>
+    <description>SaltUI Note</description>
+</snippet>

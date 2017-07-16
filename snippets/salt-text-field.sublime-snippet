@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+    <TextField
+		className=""
+		value="$1"
+		label=""
+		placeholder=""
+		layout="h"
+		readOnly={false}
+		onChange={() => {}}
+		filter={() => {}}
+		onFocus={() => {}}
+		onBlur={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-text-field</tabTrigger>
+    <description>SaltUI TextField</description>
+</snippet>

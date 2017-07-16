@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Slot.formatColumnValue($1, $2);
+    ]]></content>
+    <tabTrigger>salt-slot-formatColumnValue</tabTrigger>
+    <description>SaltUI Slot.formatColumnValue</description>
+</snippet>

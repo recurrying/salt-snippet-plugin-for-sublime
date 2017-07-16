@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+    <Tab
+		prefixCls="t"
+		activeKey={0}"
+		animated={true}
+		swipeable={true}
+		showExpandAll={true}
+		fixedTop={false}
+		fixedBottom={false}
+		tabBarPosition="top"
+		hammerOptions={{}}
+		tabBarhammerOptions={{}}
+		pageSize={5}
+		speed={8}
+		onChange={() => {$1}}
+		onTabClick={() => {}}
+	>
+	</Tab>
+    ]]></content>
+    <tabTrigger>salt-tab</tabTrigger>
+    <description>SaltUI Tab</description>
+</snippet>

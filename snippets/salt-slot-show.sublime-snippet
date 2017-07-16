@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Slot.show($1);
+    ]]></content>
+    <tabTrigger>salt-slot-show</tabTrigger>
+    <description>SaltUI Slot.show</description>
+</snippet>

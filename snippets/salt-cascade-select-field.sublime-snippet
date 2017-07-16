@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    <CascadeSelectField
+		options={[$1]}
+		value={[]}
+		formatter={(value) => value.map((v) => v.text).join('/')}
+		onChange={() => {}}
+		onSelect={() => {}}
+		readOnly={false}
+		placeholder=""
+		columns={[]}
+	/>
+    ]]></content>
+    <tabTrigger>salt-cascade-select-field</tabTrigger>
+    <description>SaltUI CascadeSelectField</description>
+</snippet>

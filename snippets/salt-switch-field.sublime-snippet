@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+    <SwitchField
+		className=""
+		label=""
+		on={true}
+		onChange={() => {$1}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-switch-field</tabTrigger>
+    <description>SaltUI SwitchField</description>
+</snippet>

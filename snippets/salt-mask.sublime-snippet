@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    <Mask
+		className=""
+		closeable={true}
+		opacity={0.6}
+		onWillHide={() => {}}
+		onDidHide={() => {}}
+		visiable={false}
+		zIndex={1000}
+	/>
+    ]]></content>
+    <tabTrigger>salt-mask</tabTrigger>
+    <description>SaltUI Mask</description>
+</snippet>

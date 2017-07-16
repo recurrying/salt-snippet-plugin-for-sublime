@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+    <Slide.Item
+		className=""
+		style={$1}
+	>
+		
+	</Slide.Item>
+    ]]></content>
+    <tabTrigger>salt-slide-item</tabTrigger>
+    <description>SaltUI Slide.Item</description>
+</snippet>

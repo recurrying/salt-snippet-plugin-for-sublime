@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    <Calendar
+		className=""
+		visible={false}
+		value={$1}
+		locale={"zh-cn"}
+		singleMode={true}
+		showHalfDay={false}
+		showTopPanel={false}
+		extraClass=""
+		topPanelTitle=""
+		onCancel={() => {}}
+		onOk={(val) => {}}
+		onSelecting={(date, e) => {}}
+		onMaskClick={(e) => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-calendar</tabTrigger>
+    <description>SaltUI Calendar</description>
+</snippet>

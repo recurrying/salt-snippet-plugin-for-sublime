@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    Avatar.formatName($1);
+    ]]></content>
+    <tabTrigger>salt-avatar-formatName</tabTrigger>
+    <description>SaltUI Avatar.formatName</description>
+</snippet>

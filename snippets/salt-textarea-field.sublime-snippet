@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+    <TextareaField
+		className=""
+		value="$1"
+		minRows={1}
+		maxRows={10}
+		placeholder=""
+		readOnly={false}
+		lineHeight="1.3"
+		onChange={(newValue, e) => {}}
+		onFocus={(e) => {}}
+		onBlur={(e) => {}}
+		layout="h"
+	/>
+    ]]></content>
+    <tabTrigger>salt-textarea-field</tabTrigger>
+    <description>SaltUI TextareaField</description>
+</snippet>

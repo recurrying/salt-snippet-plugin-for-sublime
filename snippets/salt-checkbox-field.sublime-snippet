@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    <CheckboxField
+		mode="slot"
+		readOnly={false}
+		label=""
+		titleBreakStr=""
+		placeholder=""
+		data={[$1]}
+		onChange={() => {}}
+		maskCloseable={true}
+		groupListFlag={true}
+		groupListArgument={{
+			lineIndent:	0,
+			itemIndent:	15,
+		}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-checkbox-field</tabTrigger>
+    <description>SaltUI CheckboxField</description>
+</snippet>

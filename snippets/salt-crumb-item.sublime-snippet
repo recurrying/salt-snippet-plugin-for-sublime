@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+    <Crumb.Item
+		disabled={false}
+		onClick={}
+	>
+		$1
+	</Crumb.Item>
+    ]]></content>
+    <tabTrigger>salt-crumb-item</tabTrigger>
+    <description>SaltUI Crumb Item</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <Group.List
+		className="$2"
+		lineIndent={}
+		itemIndent={}
+		borderTopNone={false}
+	>
+		$1
+	</Group.List>
+    ]]></content>
+    <tabTrigger>salt-group-list</tabTrigger>
+    <description>SaltUI Group List</description>
+</snippet>

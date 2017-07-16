@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <SelectField
+		className=""
+		label=""
+		placeholder=""
+		confirmText="完成"
+		cancelText="取消"
+		readOnly={false}
+		options={[$1]}
+		value={[$2]}
+		onSelect={() => {}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-select-field</tabTrigger>
+    <description>SaltUI SelectField</description>
+</snippet>

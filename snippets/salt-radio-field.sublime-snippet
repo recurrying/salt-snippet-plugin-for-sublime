@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+    <RadioField
+		className=""
+		data={[$1]}
+		onChange={() => {}
+		groupListFlag={true}
+		label=""
+		groupListArgument={{
+			lineIndent:	0,
+			itemIndent:	18,
+		}}
+	/>
+    ]]></content>
+    <tabTrigger>salt-radio-field</tabTrigger>
+    <description>SaltUI RadioField</description>
+</snippet>

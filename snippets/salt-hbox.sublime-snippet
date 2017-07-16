@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    <HBox
+		className="$2"
+		hAlign=""
+		vAlign=""
+		flex={}
+		onClick={}
+	>
+		$1
+	</HBox>
+    ]]></content>
+    <tabTrigger>salt-hbox</tabTrigger>
+    <description>SaltUI HBox</description>
+</snippet>

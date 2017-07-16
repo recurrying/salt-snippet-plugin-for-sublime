@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+    Toast.hide({
+		onDidHide={() => {}}
+		hasMask={false}
+	})
+    ]]></content>
+    <tabTrigger>salt-toast-hide</tabTrigger>
+    <description>SaltUI Toast.hide</description>
+</snippet>

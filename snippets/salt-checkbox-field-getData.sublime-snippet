@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+    CheckboxField.getData($1);
+    ]]></content>
+    <tabTrigger>salt-checkbox-field-getData</tabTrigger>
+    <description>SaltUI CheckboxField.getData</description>
+</snippet>

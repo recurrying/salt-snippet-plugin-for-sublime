@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+    <Item
+		prefixCls="t-scroll-list-item"
+		desMaxLine={2}
+	/>
+    ]]></content>
+    <tabTrigger>salt-scroll-list-item</tabTrigger>
+    <description>SaltUI ScrollList Item</description>
+</snippet>

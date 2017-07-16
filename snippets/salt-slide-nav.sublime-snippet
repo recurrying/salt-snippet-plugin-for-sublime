@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    <Slide.Nav
+		num={0}
+		active={0}
+		position="CENTER"
+	>
+		
+	</Slide.Nav>
+    ]]></content>
+    <tabTrigger>salt-slide-nav</tabTrigger>
+    <description>SaltUI Slide.Nav</description>
+</snippet>

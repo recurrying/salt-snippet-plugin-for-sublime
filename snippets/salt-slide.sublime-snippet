@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    <Slide
+		className=""
+		height={null}
+		active={0}
+		auto={false}
+		loop={true}
+		showNav={false}
+		onMount={() => {}}
+		onSlideEnd={() => {}}
+		onSlideClick={() => {}}
+		showTitle={false}
+		autoSlideTime={4000}
+	>
+		
+	</Slide>
+    ]]></content>
+    <tabTrigger>salt-slide</tabTrigger>
+    <description>SaltUI Slide</description>
+</snippet>

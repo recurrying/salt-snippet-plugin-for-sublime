@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    <Button
+		className=""
+		disabled={false}
+		type="primary"
+		size="large"
+		onClick={}
+	>
+		$1
+	</Button>
+    ]]></content>
+    <tabTrigger>salt-button</tabTrigger>
+    <description>SaltUI Button</description>
+</snippet>

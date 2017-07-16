@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+    <Tab.Item
+		title="t"
+		data={}"
+	>
+	</Tab.Item>
+    ]]></content>
+    <tabTrigger>salt-tab-item</tabTrigger>
+    <description>SaltUI Tab.Item</description>
+</snippet>

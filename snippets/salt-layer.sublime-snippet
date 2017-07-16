@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+    <Layer
+		onClick={() => {$2}}
+		onHide={() => {$3}}
+		zIndex={}
+		hasMask={true}
+		visible={false}
+		renderToBody={true}
+	>
+		$1
+	</Layer>
+    ]]></content>
+    <tabTrigger>salt-layer</tabTrigger>
+    <description>SaltUI Layer</description>
+</snippet>
